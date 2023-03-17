@@ -25,6 +25,6 @@
     "href": "index.html",
     "title": "Learning Azure Cloud Security - Use-Cases",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Azure Cloud Security\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master Azure Active Directory)\n  A[Learner] --> C(UC: Master XXX Azure Cloud Security)\n  A[Learner] --> D(UC: Master YYY Azure Cloud Security)\n  A[Learner] --> E(UC: Master ZZZ Azure Cloud Security)  \n  B --> F{Abstract UC: Master Azure Cloud Security}\n  C --> F{Abstract UC: Master Azure Cloud Security}\n  D --> F{Abstract UC: Master Azure Cloud Security}\n  E --> F{Abstract UC: Master Azure Cloud Security}"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Azure Cloud Security\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master Azure Active Directory)\n  A[Learner] --> C(UC: Master XXX Azure Cloud Security)\n  A[Learner] --> D(UC: Master YYY Azure Cloud Security)\n  A[Learner] --> E(UC: Master ZZZ Azure Cloud Security)  \n  B --> F{Abstract UC: Master Azure Cloud Security}\n  C --> F{Abstract UC: Master Azure Cloud Security}\n  D --> F{Abstract UC: Master Azure Cloud Security}\n  E --> F{Abstract UC: Master Azure Cloud Security}\n\n\n\n\n\n\n\n\nBased on “AZ-500T00: Microsoft Azure Security Technologies” at https://learn.microsoft.com/en-us/training/courses/az-500t00"
   }
 ]
