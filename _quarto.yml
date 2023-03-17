@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - azure active-directory.qmd
+      - azure-active-directory.qmd
 
 format:
   html:
