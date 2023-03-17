@@ -1,5 +1,5 @@
 ---
-title: "Learning Security - Use-Cases"
+title: "Learning Azure Cloud Security - Use-Cases"
 ---
 
 This is a Quarto website.
@@ -10,12 +10,12 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{mermaid}
 flowchart LR
-  A[Learner] --> B(UC: Master Cyber Security)
-  A[Learner] --> C(UC: Master XXX Security)
-  A[Learner] --> D(UC: Master YYY Security)
-  A[Learner] --> E(UC: Master ZZZ Security)  
-  B --> F{Abstract UC: Master Security}
-  C --> F{Abstract UC: Master Security}
-  D --> F{Abstract UC: Master Security}
-  E --> F{Abstract UC: Master Security}
+  A[Learner] --> B(UC: Master Azure Active Directory)
+  A[Learner] --> C(UC: Master XXX Azure Cloud Security)
+  A[Learner] --> D(UC: Master YYY Azure Cloud Security)
+  A[Learner] --> E(UC: Master ZZZ Azure Cloud Security)  
+  B --> F{Abstract UC: Master Azure Cloud Security}
+  C --> F{Abstract UC: Master Azure Cloud Security}
+  D --> F{Abstract UC: Master Azure Cloud Security}
+  E --> F{Abstract UC: Master Azure Cloud Security}
 ```
