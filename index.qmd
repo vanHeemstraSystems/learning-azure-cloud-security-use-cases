@@ -19,3 +19,5 @@ flowchart LR
   D --> F{Abstract UC: Master Azure Cloud Security}
   E --> F{Abstract UC: Master Azure Cloud Security}
 ```
+
+Based on "AZ-500T00: Microsoft Azure Security Technologies" at https://learn.microsoft.com/en-us/training/courses/az-500t00
