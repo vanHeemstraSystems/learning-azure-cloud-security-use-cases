@@ -7,6 +7,13 @@
     "text": "About this site"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Azure Cloud Security - Use-Cases",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Azure Cloud Security\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Azure Active Directory)\n  A[Learner] --&gt; C(UC: Master Azure Application Security)\n  A[Learner] --&gt; D(UC: Master Azure Containers Security)\n  A[Learner] --&gt; E(UC: Master Azure Database Security)\n  A[Learner] --&gt; F(UC: Master Azure Defender)\n  A[Learner] --&gt; G(UC: Master Azure Enterprise Governance)\n  A[Learner] --&gt; H(UC: Master Azure Host Security)\n  A[Learner] --&gt; I(UC: Master Azure Key Vault)\n  A[Learner] --&gt; J(UC: Master Azure Monitor)\n  A[Learner] --&gt; K(UC: Master Azure Network Security)\n  A[Learner] --&gt; L(UC: Master Azure Perimeter Security)\n  A[Learner] --&gt; M(UC: Master Azure Sentinel)\n  A[Learner] --&gt; N(UC: Master Azure Storage Security)\n  B --&gt; O{Abstract UC: Master Azure Cloud Security}\n  C --&gt; O{Abstract UC: Master Azure Cloud Security}\n  D --&gt; O{Abstract UC: Master Azure Cloud Security}\n  E --&gt; O{Abstract UC: Master Azure Cloud Security}\n  F --&gt; O{Abstract UC: Master Azure Cloud Security}\n  G --&gt; O{Abstract UC: Master Azure Cloud Security}\n  H --&gt; O{Abstract UC: Master Azure Cloud Security}\n  I --&gt; O{Abstract UC: Master Azure Cloud Security}\n  J --&gt; O{Abstract UC: Master Azure Cloud Security}\n  K --&gt; O{Abstract UC: Master Azure Cloud Security}\n  L --&gt; O{Abstract UC: Master Azure Cloud Security}\n  M --&gt; O{Abstract UC: Master Azure Cloud Security}\n  N --&gt; O{Abstract UC: Master Azure Cloud Security}\n\n\n\n\n\n\nBased on “AZ-500T00: Microsoft Azure Security Technologies” at https://learn.microsoft.com/en-us/training/courses/az-500t00"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -16,15 +23,8 @@
   {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
-    "title": "Learning Azure Cloud Security - Use-Cases",
+    "title": "Table of contents",
     "section": "",
     "text": "Table of contents\n\nLearning Azure Cloud Security - Use Cases"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning Azure Cloud Security - Use-Cases",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Azure Cloud Security\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master Azure Active Directory)\n  A[Learner] --> C(UC: Master Azure Application Security)\n  A[Learner] --> D(UC: Master Azure Containers Security)\n  A[Learner] --> E(UC: Master Azure Database Security)\n  A[Learner] --> F(UC: Master Azure Defender)\n  A[Learner] --> G(UC: Master Azure Enterprise Governance)\n  A[Learner] --> H(UC: Master Azure Host Security)\n  A[Learner] --> I(UC: Master Azure Key Vault)\n  A[Learner] --> J(UC: Master Azure Monitor)\n  A[Learner] --> K(UC: Master Azure Network Security)\n  A[Learner] --> L(UC: Master Azure Perimeter Security)\n  A[Learner] --> M(UC: Master Azure Sentinel)\n  A[Learner] --> N(UC: Master Azure Storage Security)\n  B --> O{Abstract UC: Master Azure Cloud Security}\n  C --> O{Abstract UC: Master Azure Cloud Security}\n  D --> O{Abstract UC: Master Azure Cloud Security}\n  E --> O{Abstract UC: Master Azure Cloud Security}\n  F --> O{Abstract UC: Master Azure Cloud Security}\n  G --> O{Abstract UC: Master Azure Cloud Security}\n  H --> O{Abstract UC: Master Azure Cloud Security}\n  I --> O{Abstract UC: Master Azure Cloud Security}\n  J --> O{Abstract UC: Master Azure Cloud Security}\n  K --> O{Abstract UC: Master Azure Cloud Security}\n  L --> O{Abstract UC: Master Azure Cloud Security}\n  M --> O{Abstract UC: Master Azure Cloud Security}\n  N --> O{Abstract UC: Master Azure Cloud Security}\n\n\n\n\n\n\n\n\nBased on “AZ-500T00: Microsoft Azure Security Technologies” at https://learn.microsoft.com/en-us/training/courses/az-500t00"
   }
 ]
